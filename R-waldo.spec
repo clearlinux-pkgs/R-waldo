@@ -4,7 +4,7 @@
 #
 Name     : R-waldo
 Version  : 0.2.5
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/waldo_0.2.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/waldo_0.2.5.tar.gz
 Summary  : Find Differences Between R Objects
